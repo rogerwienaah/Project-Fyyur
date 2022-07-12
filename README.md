@@ -181,3 +181,8 @@ python3 app.py
 6. **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
 
+### Authors
+- Roger Wienaah build the backend of this app
+
+- Udacity provided the starter files for this project including the models and frontend.
+
